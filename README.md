@@ -21,6 +21,9 @@ Stop guessing your grades. Input your exam results and assignment scores to inst
 📅 **Smart Calendar & Reminders**
 Never miss a deadline again. Schedule your exams, quizzes, and study sessions with our intuitive calendar. Set custom remainders for upcoming events and build a solid study routine.
 
+📝 **Exams Page**
+Manage all your exams in one place. Track Mid Term and Final Term papers, set dates and locations, see countdown to your next paper, and export directly to Google Calendar with automatic reminders.
+
 📂 **Offline Course Materials**
 Save your handouts, past papers, and notes directly in the app. PDFs are linked to your courses, so you can study anytime, anywhere, without needing an active internet connection.
 
