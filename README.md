@@ -2,6 +2,9 @@
 
 Master your semester. Track grades, assignments, and study schedules offline.
 
+![Downloads](https://img.shields.io/github/downloads/Hadi99K/vu-study-tracker-app/total?style=for-the-badge&color=28a745)
+![Latest Release](https://img.shields.io/github/v/release/Hadi99K/vu-study-tracker-app?style=for-the-badge&color=3b82f6)
+
 ## About
 Stay on top of your academic goals with **VU Study Tracker**, the dedicated app designed specifically for Virtual University students. 
 Whether you're managing multiple courses, calculating your projected CGPA, or keeping track of assignment deadlines, VU Study Tracker puts everything you need right in your pocket—completely offline.
